@@ -1234,6 +1234,7 @@
     <module>domain</module>
     <module>oaipmh</module>
     <module>events</module>
+    <module>events-bus</module>
     <module>core</module>
     <module>listeners</module>
     <module>schemas</module>
